@@ -1,4 +1,4 @@
-# COG Interactive Case Study
+# AMAZE! Clone
 
 A 2D grid-based puzzle game built with Unity 2022.3.62f2 featuring dynamic pathfinding, tile painting mechanics, and a custom level editor.
 
